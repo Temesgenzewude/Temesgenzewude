@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I am Temesgen Zewude</h1>
 
-<div align = "center"> <img src="https://github.com/Temesgenzewude/Temesgenzewude/blob/main/temesgen-logo1.png" >  </div>
+<div align = "center"> <img src="https://github.com/Temesgenzewude/Temesgenzewude/blob/main/temesgen-logo-2.png" >  </div>
 <h3 align="center">A passionate Software Engineer,  Web Designer and Developer, Mobile App(Flutter) Developer, Laravel, and Full-Stack developer. In my free time, I learn new tech stacks.</h3>
 
 <img align="right" width="400" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" >
