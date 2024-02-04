@@ -52,7 +52,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=temesgenzewude&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 🔝 My Github Contributions
-![Snack_Animation](https://github.com/Temesgenzewude/Temesgenzewude/blob/output/github-contribution-grid-snack.svg)
+![Snake_Animation](https://github.com/Temesgenzewude/Temesgenzewude/blob/output/github-contribution-grid-snake.svg)
 
 
 <h3 align="left">Support:</h3>
