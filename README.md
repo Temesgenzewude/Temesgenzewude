@@ -16,13 +16,13 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and AI projects**
 
-- 👨‍💻 All of my projects are available at [https://temezedreactportfolio.netlify.app/](https://temezedreactportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://temesgenzewude.com/](https://temesgenzewude.com/)
 
 - 💬 Ask me about **Flutter, Laravel, Django, Python, APIs**
 
 - 📫 How to reach me **temesgenzewude21@gmail.com**
 
-- 📄 Know about my experiences [https://temezedreactportfolio.netlify.app/](https://temezedreactportfolio.netlify.app/)
+- 📄 Know about my experiences [https://temesgenzewude.com/](https://temesgenzewude.com/)
 
 - ⚡ Fun fact **I think I am not funny.**
 
