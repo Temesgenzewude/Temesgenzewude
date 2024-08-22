@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I am Temesgen Zewude</h1>
 
 <div align = "center"> <img src="https://github.com/Temesgenzewude/Temesgenzewude/blob/main/temesgen-logo-2.png" >  </div>
-<h3 align="center">A passionate Software Engineer,  Web Designer and Developer, Mobile App(Flutter) Developer, Laravel, and Full-Stack developer. In my free time, I learn new tech stacks.</h3>
+<h3 align="center"> Purpose-driven Software Engineer/Full-Stack developer, Mobile App(Flutter/React Native) Developer, incoming ML/Data Scientist. In my free time, I learn new tech stacks.</h3>
 
 <img align="right" width="400" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" >
 
@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **Many Flutter & Laravel Projects**
 
-- 🌱 I’m currently learning **LLM and ChatGPT**
+- 🌱 I’m currently learning **LLM and ChatGPT, Microsoft Azure Data Science, and ML**
 
-- 👯 I’m looking to collaborate on **Machine Learning and AI projects**
+- 👯 I’m looking to collaborate on **ML/Data Science Projects**
 
 - 👨‍💻 All of my projects are available at [https://temesgenzewude.com/](https://temesgenzewude.com/)
 
