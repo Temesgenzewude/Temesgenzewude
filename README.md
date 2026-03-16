@@ -20,9 +20,7 @@
 
 - 📫 How to reach me **temesgenzewude21@gmail.com**
 
-- 📄 Know about my experiences [https://temesgenzewude.com/](https://temesgenzewude.com/)
-
-- ⚡ Fun fact **I think I am not funny.**
+- ⚡ Fun fact **I started using computer after joining Addis Ababa University. At Highschool(11, 12th grade), I didn't know how to create and then save a file on computer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
