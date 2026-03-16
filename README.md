@@ -16,8 +16,6 @@
 
 - 👯 I’m looking to collaborate on **ML/Data Science Projects**
 
-- 👨‍💻 All of my projects are available at [https://temesgenzewude.com/](https://temesgenzewude.com/)
-
 - 💬 Ask me about **Flutter, Laravel, Django, Python, APIs**
 
 - 📫 How to reach me **temesgenzewude21@gmail.com**
